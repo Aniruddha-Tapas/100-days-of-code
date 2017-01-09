@@ -8,7 +8,7 @@
 * **Thoughts:** 
 * **Link to work:** 
 
-Day 1: January 9, 2017
+### Day 1: January 9, 2017
 
 **Today's Progress**: Moved ahead with the UPES SPE Fest App. Completed Firebase authentication and added Navigation Drawer. Worked on the Material Design of the app. Implemented Instagram like timeline for the images loaded using Firebase-Storage.
 
